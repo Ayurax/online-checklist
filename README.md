@@ -3,6 +3,7 @@
 A tiny task tracker for people who have approximately 47 things to do and remember 3 of them.
 
 🌐 **Live site:** https://online-checklist.netlify.app/
+☕ **Enjoying it?** [Buy me a coffee](https://buymeacoffee.com/Ayu_rax) — help fuel the next questionable improvement.
 
 ## Screenshot
 
