@@ -8,7 +8,7 @@ A tiny task tracker for the 47 things on your mind, the 3 you remember, and the 
 
 ## Current state of the cat
 
-![Online Checklist screenshot](screenshots/online-checklist.png)
+![Online Checklist screenshot](screenshots/online-checklist.png?v=a4d8607)
 
 ## What it does
 
