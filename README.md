@@ -1,13 +1,12 @@
 # Online Checklist
 
-A tiny task tracker for people who have approximately 47 things to do and remember 3 of them.
+A tiny task tracker for the 47 things on your mind, the 3 you remember, and the one Schrödinger says is both done and not done until you check it.
 
 🌐 **Live site:** https://online-checklist.netlify.app/
 
+☕ **Enjoying it?** [Buy me a coffee](https://buymeacoffee.com/Ayu_rax) — help fund the next questionable improvement.
 
-☕ **Enjoying it?** [Buy me a coffee](https://buymeacoffee.com/Ayu_rax) — help fuel the next questionable improvement.
-
-## Screenshot
+## Current state of the cat
 
 ![Online Checklist screenshot](screenshots/online-checklist.png)
 
@@ -23,13 +22,13 @@ A tiny task tracker for people who have approximately 47 things to do and rememb
 ## Run it locally
 
 1. Clone this repository.
-2. Open index.html in your browser.
+2. Open `index.html` in your browser.
 
-That's it. No package installation, build step, or 14-layer JavaScript framework required.
+That's it. No install, no build step, and no framework with more layers than your laundry pile.
 
 ## Data and privacy
 
-Tasks are saved in your browser's local storage on that device. There is no cloud account or automatic sync between devices. Clearing browser storage may erase your saved tasks.
+Tasks stay in your browser's local storage on that device. There is no cloud account or automatic sync between devices. Clear browser storage and your tasks may vanish into the quantum void.
 
 ## Built with
 
@@ -39,6 +38,4 @@ Tasks are saved in your browser's local storage on that device. There is no clou
 
 ## Feedback
 
-Found a bug or have a sensible improvement? Open a GitHub issue.
-
----
+Found a bug or a sensible improvement? Open a GitHub issue. The cat can't file it for you.
